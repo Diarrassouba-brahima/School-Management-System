@@ -7,8 +7,8 @@ void student();
 
 void admi()
 {
-     system("cls");
-   printf("\n\t1. PRESIDENT");
+    system("cls");
+    printf("\n\t1. PRESIDENT");
     printf("\n\t2. VICE PRESIDENT");
     printf("\n\t3. CHIEF OF DEPARTMENT");
     printf("\n\t4. STUDENTS PRESIDENT");
